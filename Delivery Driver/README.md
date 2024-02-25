@@ -4,25 +4,14 @@ Welcome to the Delivery Dash Unity Game repository! This project is a 2D Unity g
 
 ## Table of Contents
 - [Game Overview](#game-overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Controls](#controls)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Game Overview
 
 Delivery Dash is a fun and challenging 2D game built with Unity. The game features a playable car that players can control to deliver goods to various destinations. With carefully designed levels, players will encounter different challenges and obstacles that will test their driving skills.
-
-## Features
-
-- **Dynamic Gameplay:** Each level presents a unique set of challenges, keeping the gameplay dynamic and engaging.
-- **Scoring System:** Earn points based on delivery speed, accuracy, and avoiding obstacles.
-- **Upgrades:** Unlock and upgrade your delivery vehicle for improved performance.
-- **Leaderboard:** Compete with friends and other players for the top spot on the leaderboard.
-
 
 
 ## Getting Started
