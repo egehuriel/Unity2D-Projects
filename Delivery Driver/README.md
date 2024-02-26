@@ -1,6 +1,6 @@
-# Delivery Dash Unity Game
+# Delivery Driver Unity Game
 
-Welcome to the Delivery Dash Unity Game repository! This project is a 2D Unity game where players take on the role of a delivery driver navigating through various levels to deliver goods. Get ready for an exciting journey as you speed through the city streets, avoiding obstacles, and ensuring timely deliveries.
+Welcome to the Delivery Driver Unity Game repository! This project is a 2D Unity game where players take on the role of a delivery driver navigating through various levels to deliver goods. Get ready for an exciting journey as you speed through the city streets, avoiding obstacles, and ensuring timely deliveries.
 
 ## Table of Contents
 - [Game Overview](#game-overview)
@@ -11,7 +11,7 @@ Welcome to the Delivery Dash Unity Game repository! This project is a 2D Unity g
 
 ## Game Overview
 
-Delivery Dash is a fun and challenging 2D game built with Unity. The game features a playable car that players can control to deliver goods to various destinations. With carefully designed levels, players will encounter different challenges and obstacles that will test their driving skills.
+Delivery Driver is a fun and challenging 2D game built with Unity. The game features a playable car that players can control to deliver goods to various destinations. With carefully designed levels, players will encounter different challenges and obstacles that will test their driving skills.
 
 
 ## Getting Started
@@ -30,7 +30,7 @@ To get started with the game, follow these steps:
 
 - Navigate through the city streets to reach the destination.
 - Avoid obstacles and challenges on the way.
-- Deliver goods on time to earn maximum points.
+- Deliver goods across the city.
 
 ## Controls
 
@@ -42,7 +42,7 @@ To get started with the game, follow these steps:
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own projects. If you make significant improvements, consider contributing them back to this repository.
 
-Enjoy playing Delivery Dash! If you have any questions or feedback, feel free to open an issue or reach out to the maintainers.
+Enjoy playing Delivery Driver! If you have any questions or feedback, feel free to open an issue or reach out to the maintainers.
 
 ## Special Thanks...
 
